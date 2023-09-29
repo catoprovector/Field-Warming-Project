@@ -13,10 +13,6 @@ RTC_PCF8523 rtc;//RTC class
 Adafruit_MCP9600 mcp1;
 Adafruit_MCP9600 mcp2;
 Adafruit_MCP9600 mcp3;
-Adafruit_MCP9600 mcp4;
-Adafruit_MCP9600 mcp5;
-Adafruit_MCP9600 mcp6;
-Adafruit_MCP9600 mcp7;
 
 //create a new file object
 File logfile;
