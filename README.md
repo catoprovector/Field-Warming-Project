@@ -12,7 +12,7 @@ The test results are presented in `./Docs`
 
 ## Team
 
-+ Project lead: Joshua Hauwer
++ Project lead: Joshua Hauser
 + Contributors:
 
 
