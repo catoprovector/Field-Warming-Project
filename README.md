@@ -32,5 +32,5 @@ CC-BY
 
 This project was supported by the Lili's Proto Lab Open Science Hacker program.
 
-![LPL sharing image](//Docs/Images/lpl_sharing.jpg)
+![LPL sharing image](./Docs/Images/lpl_sharing.jpg)
 
