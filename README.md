@@ -22,7 +22,7 @@ Comments and suggestions on this folder structure are always welcome. Please cre
 
 ## License
 
-CC-BY
+CERN-OHL-P-2.0
 
 ### (How to cite:)
 
